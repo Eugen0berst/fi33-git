@@ -8,4 +8,6 @@ b = 20*5
 print(b)
 
 irgendwelche neue Funktionen
+fremde kolllega feat5-fremd macht
+hohoho
 Enderung 
