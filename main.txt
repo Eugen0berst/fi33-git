@@ -10,4 +10,7 @@ print(b)
 irgendwelche neue Funktionen
 fremde kolllega feat5-fremd macht
 hohoho
-Enderung 
+Enderung 26.02.2026
+
+ neue Zeilen hinzugefügt
+ die wir am 27.02.2026
